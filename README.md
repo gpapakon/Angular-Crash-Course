@@ -6,13 +6,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Data Base
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `npm run server` in order to generate a virtual back end server.
+Navigate to `http://localhost:5000/tasks`.
 
-## Build
+## Project
+This project is a simple Task Tracker I created with the use of angular. It is my first project using this technology. Hope you Enjoy !!
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Running unit tests
 
